@@ -33,7 +33,7 @@
                 <a class="nav-link" href="jewelry.php">Jewelry</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.php">Other Gifts</a>
+                <a class="nav-link" href="other_gifts.php">Other Gifts</a>
               </li>
             </ul>
             <p> </p>
