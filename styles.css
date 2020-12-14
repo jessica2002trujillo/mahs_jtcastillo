@@ -1,0 +1,47 @@
+/* body */
+body {
+background-color: rgb(235, 197, 235);
+} 
+h1 {
+  color: rgb(115, 4, 138);
+  font-size: 200%;
+  text-align: left;
+  }
+  h9 {
+    color: rgb(52, 53, 104);
+    font-size: 150%;
+    text-align: left;
+    }
+  h2 {
+    color: rgb(115, 4, 138);
+    font-size: 200%;
+    text-align: left;
+    }
+    h3 {
+      color: rgb(115, 4, 138);
+      font-size: 200%;
+      text-align: left;
+      }
+    h7 {
+        color: rgb(52, 53, 104);
+        font-size: 445%;
+        text-align: center;
+        }
+    
+  p {
+    color: rgb(52, 53, 104);
+    font-size: 158%;
+    }
+    
+ nav {
+   background-color: rgb(52, 53, 104);
+ }
+
+ nav a {
+color: rgb(252, 208, 221);
+ }
+
+ nav a:hover {
+color: rgb(224, 224, 217);
+ }
+
